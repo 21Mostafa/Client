@@ -1,0 +1,17 @@
+.second{margin-top: 100px;}
+.card{box-shadow: 9px 10px 8px 9px wheat;}
+.last{padding-left: 100px;
+width: 100%;}
+.euro p{background-color: rgb(15, 13, 13);
+    
+color: black;
+height: 1px;}
+.down{margin-top: 100px;}
+
+.buy{padding: 9px 20px;
+border-radius: 10px;
+background-image: linear-gradient(rgb(156, 4, 110) ,rgb(230, 11, 219));}
+
+.prize{
+    color: teal;
+}
